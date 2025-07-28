@@ -1,0 +1,7 @@
+flask
+flask-cors
+transformers
+python-dotenv
+torch
+httpx
+slack_sdk
