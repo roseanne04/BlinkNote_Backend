@@ -6,3 +6,4 @@ torch
 httpx
 slack_sdk
 gunicorn
+cohere
